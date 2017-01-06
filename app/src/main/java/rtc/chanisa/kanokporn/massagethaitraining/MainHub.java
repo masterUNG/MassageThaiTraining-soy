@@ -16,6 +16,7 @@ public class MainHub extends AppCompatActivity implements View.OnClickListener {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main_hub);
 
+
         //Bind Widget
         hub1ImageView = (ImageView) findViewById(R.id.imageView2);
         hub2ImageView = (ImageView) findViewById(R.id.imageView3);
